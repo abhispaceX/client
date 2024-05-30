@@ -1,10 +1,12 @@
 
+import Login from "./components/Login";
 
 
 function App() {
   return (
-    <div className="text-3xl text-red-900">
-      Hello world
+    <div>
+      
+     <Login/>
     </div>
   );
 }
